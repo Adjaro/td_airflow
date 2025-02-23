@@ -1,0 +1,1001 @@
+pays,devise_origine,ville,nom_magasin,produit,prix_unitaire_original,vendeur,quantite_vendue,prix_total_original,date_vente,prix_unitaire_gbp,prix_total_gbp,taux_conversion,date_transformation
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,5,9.0,2025-02-22 23:02:42,1.42,7.11,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Bob,4,7.2,2025-02-22 23:02:42,1.42,5.69,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Charlie,10,18.0,2025-02-22 23:02:42,1.42,14.22,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,David,2,3.6,2025-02-22 23:02:42,1.42,2.84,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Eve,9,16.2,2025-02-22 23:02:42,1.42,12.8,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Alice,2,1.9,2025-02-22 23:02:42,0.75,1.5,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,10,9.5,2025-02-22 23:02:42,0.75,7.51,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Charlie,3,2.85,2025-02-22 23:02:42,0.75,2.25,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,David,3,2.85,2025-02-22 23:02:42,0.75,2.25,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Eve,8,7.6,2025-02-22 23:02:42,0.75,6.0,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Alice,6,14.4,2025-02-22 23:02:42,1.9,11.38,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Bob,9,21.6,2025-02-22 23:02:42,1.9,17.06,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Charlie,1,2.4,2025-02-22 23:02:42,1.9,1.9,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,5,12.0,2025-02-22 23:02:42,1.9,9.48,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Eve,7,16.8,2025-02-22 23:02:42,1.9,13.27,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Alice,4,5.8,2025-02-22 23:02:42,1.15,4.58,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Bob,5,7.25,2025-02-22 23:02:42,1.15,5.73,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Charlie,2,2.9,2025-02-22 23:02:42,1.15,2.29,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,David,8,11.6,2025-02-22 23:02:42,1.15,9.16,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Eve,4,5.8,2025-02-22 23:02:42,1.15,4.58,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Alice,7,21.0,2025-02-22 23:02:42,2.37,16.59,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Bob,2,6.0,2025-02-22 23:02:42,2.37,4.74,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Charlie,8,24.0,2025-02-22 23:02:42,2.37,18.96,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,3,9.0,2025-02-22 23:02:42,2.37,7.11,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Eve,4,12.0,2025-02-22 23:02:42,2.37,9.48,0.79,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Jean,2,2.6,2025-02-22 23:02:41,1.1,2.21,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Marie,10,13.0,2025-02-22 23:02:41,1.1,11.05,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Pommes,1.3,Pierre,4,5.2,2025-02-22 23:02:41,1.1,4.42,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Sophie,10,13.0,2025-02-22 23:02:41,1.1,11.05,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Pommes,1.3,Luc,6,7.800000000000001,2025-02-22 23:02:41,1.1,6.63,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Jean,2,1.4,2025-02-22 23:02:41,0.59,1.19,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,8,5.6,2025-02-22 23:02:41,0.59,4.76,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Bananes,0.7,Pierre,6,4.199999999999999,2025-02-22 23:02:41,0.59,3.57,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,1,0.7,2025-02-22 23:02:41,0.59,0.59,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,1,0.7,2025-02-22 23:02:41,0.59,0.59,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,4,7.2,2025-02-22 23:02:41,1.53,6.12,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Lait,1.8,Marie,6,10.8,2025-02-22 23:02:41,1.53,9.18,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Lait,1.8,Pierre,7,12.6,2025-02-22 23:02:41,1.53,10.71,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Lait,1.8,Sophie,2,3.6,2025-02-22 23:02:41,1.53,3.06,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,6,10.8,2025-02-22 23:02:41,1.53,9.18,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Pain,1.0,Jean,1,1.0,2025-02-22 23:02:41,0.85,0.85,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Pain,1.0,Marie,7,7.0,2025-02-22 23:02:41,0.85,5.95,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Pain,1.0,Pierre,7,7.0,2025-02-22 23:02:41,0.85,5.95,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Pain,1.0,Sophie,6,6.0,2025-02-22 23:02:41,0.85,5.1,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Pain,1.0,Luc,10,10.0,2025-02-22 23:02:41,0.85,8.5,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Œufs,2.2,Jean,4,8.8,2025-02-22 23:02:41,1.87,7.48,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Œufs,2.2,Marie,2,4.4,2025-02-22 23:02:41,1.87,3.74,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Œufs,2.2,Pierre,8,17.6,2025-02-22 23:02:41,1.87,14.96,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Sophie,2,4.4,2025-02-22 23:02:41,1.87,3.74,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Luc,6,13.2,2025-02-22 23:02:41,1.87,11.22,0.85,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Alice,4,7.2,2025-02-22 23:02:42,1.42,5.69,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Bob,1,1.8,2025-02-22 23:02:42,1.42,1.42,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Charlie,8,14.4,2025-02-22 23:02:42,1.42,11.38,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,David,5,9.0,2025-02-22 23:02:42,1.42,7.11,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Eve,5,9.0,2025-02-22 23:02:42,1.42,7.11,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Alice,7,6.65,2025-02-22 23:02:42,0.75,5.25,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Bob,9,8.549999999999999,2025-02-22 23:02:42,0.75,6.75,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Charlie,10,9.5,2025-02-22 23:02:42,0.75,7.51,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,4,3.8,2025-02-22 23:02:42,0.75,3.0,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Eve,3,2.85,2025-02-22 23:02:42,0.75,2.25,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Alice,3,7.199999999999999,2025-02-22 23:02:42,1.9,5.69,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Bob,3,7.199999999999999,2025-02-22 23:02:42,1.9,5.69,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Charlie,2,4.8,2025-02-22 23:02:42,1.9,3.79,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,3,7.199999999999999,2025-02-22 23:02:42,1.9,5.69,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Eve,1,2.4,2025-02-22 23:02:42,1.9,1.9,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Alice,3,4.35,2025-02-22 23:02:42,1.15,3.44,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Bob,8,11.6,2025-02-22 23:02:42,1.15,9.16,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Charlie,8,11.6,2025-02-22 23:02:42,1.15,9.16,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,David,10,14.5,2025-02-22 23:02:42,1.15,11.46,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Eve,3,4.35,2025-02-22 23:02:42,1.15,3.44,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Alice,7,21.0,2025-02-22 23:02:42,2.37,16.59,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Bob,9,27.0,2025-02-22 23:02:42,2.37,21.33,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Charlie,7,21.0,2025-02-22 23:02:42,2.37,16.59,0.79,2025-02-22 23:02:45
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,1,3.0,2025-02-22 23:02:42,2.37,2.37,0.79,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Eve,10,30.0,2025-02-22 23:02:42,2.37,23.7,0.79,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Jean,5,6.5,2025-02-22 23:02:42,1.1,5.52,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Pommes,1.3,Marie,5,6.5,2025-02-22 23:02:42,1.1,5.52,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Pommes,1.3,Pierre,4,5.2,2025-02-22 23:02:42,1.1,4.42,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Pommes,1.3,Sophie,2,2.6,2025-02-22 23:02:42,1.1,2.21,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Luc,7,9.1,2025-02-22 23:02:42,1.1,7.73,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Jean,5,3.5,2025-02-22 23:02:42,0.59,2.98,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,2,1.4,2025-02-22 23:02:42,0.59,1.19,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,6,4.199999999999999,2025-02-22 23:02:42,0.59,3.57,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Bananes,0.7,Sophie,10,7.0,2025-02-22 23:02:42,0.59,5.95,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Luc,2,1.4,2025-02-22 23:02:42,0.59,1.19,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,2,3.6,2025-02-22 23:02:42,1.53,3.06,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,4,7.2,2025-02-22 23:02:42,1.53,6.12,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Lait,1.8,Pierre,8,14.4,2025-02-22 23:02:42,1.53,12.24,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Lait,1.8,Sophie,5,9.0,2025-02-22 23:02:42,1.53,7.65,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Lait,1.8,Luc,9,16.2,2025-02-22 23:02:42,1.53,13.77,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Pain,1.0,Jean,3,3.0,2025-02-22 23:02:42,0.85,2.55,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Pain,1.0,Marie,9,9.0,2025-02-22 23:02:42,0.85,7.65,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Pain,1.0,Pierre,8,8.0,2025-02-22 23:02:42,0.85,6.8,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,10,10.0,2025-02-22 23:02:42,0.85,8.5,0.85,2025-02-22 23:02:45
+France,EUR,Paris,SuperMart France,Pain,1.0,Luc,8,8.0,2025-02-22 23:02:42,0.85,6.8,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Jean,2,4.4,2025-02-22 23:02:42,1.87,3.74,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Œufs,2.2,Marie,7,15.400000000000002,2025-02-22 23:02:42,1.87,13.09,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Œufs,2.2,Pierre,3,6.6000000000000005,2025-02-22 23:02:42,1.87,5.61,0.85,2025-02-22 23:02:45
+France,EUR,Paris,QuickShop France,Œufs,2.2,Sophie,9,19.8,2025-02-22 23:02:42,1.87,16.83,0.85,2025-02-22 23:02:45
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Luc,8,17.6,2025-02-22 23:02:42,1.87,14.96,0.85,2025-02-22 23:02:45
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Alice,1,1.8,2025-02-22 23:05:02,1.42,1.42,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Bob,2,3.6,2025-02-22 23:05:02,1.42,2.84,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Charlie,1,1.8,2025-02-22 23:05:02,1.42,1.42,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,David,4,7.2,2025-02-22 23:05:02,1.42,5.69,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Eve,8,14.4,2025-02-22 23:05:02,1.42,11.38,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Alice,7,6.65,2025-02-22 23:05:02,0.75,5.25,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Bob,9,8.549999999999999,2025-02-22 23:05:02,0.75,6.75,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Charlie,2,1.9,2025-02-22 23:05:02,0.75,1.5,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,2,1.9,2025-02-22 23:05:02,0.75,1.5,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Eve,3,2.85,2025-02-22 23:05:02,0.75,2.25,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Alice,1,2.4,2025-02-22 23:05:02,1.9,1.9,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Bob,10,24.0,2025-02-22 23:05:02,1.9,18.96,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Charlie,4,9.6,2025-02-22 23:05:02,1.9,7.58,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,David,1,2.4,2025-02-22 23:05:02,1.9,1.9,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Eve,8,19.2,2025-02-22 23:05:02,1.9,15.17,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Alice,5,7.25,2025-02-22 23:05:02,1.15,5.73,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Bob,5,7.25,2025-02-22 23:05:02,1.15,5.73,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,6,8.7,2025-02-22 23:05:02,1.15,6.87,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,David,1,1.45,2025-02-22 23:05:02,1.15,1.15,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Eve,5,7.25,2025-02-22 23:05:02,1.15,5.73,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Alice,8,24.0,2025-02-22 23:05:02,2.37,18.96,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Bob,3,9.0,2025-02-22 23:05:02,2.37,7.11,0.79,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Charlie,5,15.0,2025-02-22 23:05:02,2.37,11.85,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,2,6.0,2025-02-22 23:05:02,2.37,4.74,0.79,2025-02-22 23:05:06
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Eve,9,27.0,2025-02-22 23:05:02,2.37,21.33,0.79,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Jean,6,7.800000000000001,2025-02-22 23:05:02,1.1,6.63,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Marie,10,13.0,2025-02-22 23:05:02,1.1,11.05,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Pierre,1,1.3,2025-02-22 23:05:02,1.1,1.1,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Sophie,3,3.9,2025-02-22 23:05:02,1.1,3.32,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,4,5.2,2025-02-22 23:05:02,1.1,4.42,0.85,2025-02-22 23:05:06
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,7,4.9,2025-02-22 23:05:02,0.59,4.16,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Marie,2,1.4,2025-02-22 23:05:02,0.59,1.19,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Pierre,7,4.9,2025-02-22 23:05:02,0.59,4.16,0.85,2025-02-22 23:05:06
+France,EUR,Paris,SuperMart France,Bananes,0.7,Sophie,3,2.1,2025-02-22 23:05:02,0.59,1.78,0.85,2025-02-22 23:05:06
+France,EUR,Paris,SuperMart France,Bananes,0.7,Luc,9,6.3,2025-02-22 23:05:02,0.59,5.35,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Lait,1.8,Jean,6,10.8,2025-02-22 23:05:02,1.53,9.18,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,7,12.6,2025-02-22 23:05:02,1.53,10.71,0.85,2025-02-22 23:05:06
+France,EUR,Paris,SuperMart France,Lait,1.8,Pierre,3,5.4,2025-02-22 23:05:02,1.53,4.59,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Lait,1.8,Sophie,1,1.8,2025-02-22 23:05:02,1.53,1.53,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,9,16.2,2025-02-22 23:05:02,1.53,13.77,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Pain,1.0,Jean,9,9.0,2025-02-22 23:05:02,0.85,7.65,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Pain,1.0,Marie,10,10.0,2025-02-22 23:05:02,0.85,8.5,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,4,4.0,2025-02-22 23:05:02,0.85,3.4,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,6,6.0,2025-02-22 23:05:02,0.85,5.1,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Pain,1.0,Luc,7,7.0,2025-02-22 23:05:02,0.85,5.95,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Jean,9,19.8,2025-02-22 23:05:02,1.87,16.83,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Marie,2,4.4,2025-02-22 23:05:02,1.87,3.74,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,6,13.2,2025-02-22 23:05:02,1.87,11.22,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Sophie,7,15.400000000000002,2025-02-22 23:05:02,1.87,13.09,0.85,2025-02-22 23:05:06
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Luc,10,22.0,2025-02-22 23:05:02,1.87,18.7,0.85,2025-02-22 23:05:06
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Alice,9,16.2,2025-02-22 23:10:03,1.42,12.8,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Bob,5,9.0,2025-02-22 23:10:03,1.42,7.11,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Charlie,6,10.8,2025-02-22 23:10:03,1.42,8.53,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,David,2,3.6,2025-02-22 23:10:03,1.42,2.84,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Eve,5,9.0,2025-02-22 23:10:03,1.42,7.11,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Alice,8,7.6,2025-02-22 23:10:03,0.75,6.0,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,8,7.6,2025-02-22 23:10:03,0.75,6.0,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Charlie,3,2.85,2025-02-22 23:10:03,0.75,2.25,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,David,7,6.65,2025-02-22 23:10:03,0.75,5.25,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Eve,10,9.5,2025-02-22 23:10:03,0.75,7.51,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Alice,5,12.0,2025-02-22 23:10:03,1.9,9.48,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Bob,5,12.0,2025-02-22 23:10:03,1.9,9.48,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Charlie,5,12.0,2025-02-22 23:10:03,1.9,9.48,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,David,6,14.4,2025-02-22 23:10:03,1.9,11.38,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Eve,3,7.199999999999999,2025-02-22 23:10:03,1.9,5.69,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Alice,9,13.05,2025-02-22 23:10:03,1.15,10.31,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Bob,9,13.05,2025-02-22 23:10:03,1.15,10.31,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,6,8.7,2025-02-22 23:10:03,1.15,6.87,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,David,3,4.35,2025-02-22 23:10:03,1.15,3.44,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Eve,1,1.45,2025-02-22 23:10:03,1.15,1.15,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Alice,8,24.0,2025-02-22 23:10:03,2.37,18.96,0.79,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Bob,10,30.0,2025-02-22 23:10:03,2.37,23.7,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Charlie,8,24.0,2025-02-22 23:10:03,2.37,18.96,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,David,6,18.0,2025-02-22 23:10:03,2.37,14.22,0.79,2025-02-22 23:10:06
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Eve,9,27.0,2025-02-22 23:10:03,2.37,21.33,0.79,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,9,11.7,2025-02-22 23:10:03,1.1,9.95,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Pommes,1.3,Marie,1,1.3,2025-02-22 23:10:03,1.1,1.1,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Pierre,9,11.7,2025-02-22 23:10:03,1.1,9.95,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Pommes,1.3,Sophie,4,5.2,2025-02-22 23:10:03,1.1,4.42,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Luc,9,11.7,2025-02-22 23:10:03,1.1,9.95,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,9,6.3,2025-02-22 23:10:03,0.59,5.35,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,9,6.3,2025-02-22 23:10:03,0.59,5.35,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Bananes,0.7,Pierre,5,3.5,2025-02-22 23:10:03,0.59,2.98,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Bananes,0.7,Sophie,9,6.3,2025-02-22 23:10:03,0.59,5.35,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,3,2.1,2025-02-22 23:10:03,0.59,1.78,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,3,5.4,2025-02-22 23:10:03,1.53,4.59,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Lait,1.8,Marie,7,12.6,2025-02-22 23:10:03,1.53,10.71,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,2,3.6,2025-02-22 23:10:03,1.53,3.06,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Lait,1.8,Sophie,2,3.6,2025-02-22 23:10:03,1.53,3.06,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Lait,1.8,Luc,4,7.2,2025-02-22 23:10:03,1.53,6.12,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Pain,1.0,Jean,3,3.0,2025-02-22 23:10:03,0.85,2.55,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,SuperMart France,Pain,1.0,Marie,2,2.0,2025-02-22 23:10:03,0.85,1.7,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Pain,1.0,Pierre,9,9.0,2025-02-22 23:10:03,0.85,7.65,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Pain,1.0,Sophie,9,9.0,2025-02-22 23:10:03,0.85,7.65,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,QuickShop France,Pain,1.0,Luc,7,7.0,2025-02-22 23:10:03,0.85,5.95,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Jean,8,17.6,2025-02-22 23:10:03,1.87,14.96,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Œufs,2.2,Marie,4,8.8,2025-02-22 23:10:03,1.87,7.48,0.85,2025-02-22 23:10:06
+France,EUR,Paris,QuickShop France,Œufs,2.2,Pierre,8,17.6,2025-02-22 23:10:03,1.87,14.96,0.85,2025-02-22 23:10:06
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Sophie,7,15.400000000000002,2025-02-22 23:10:03,1.87,13.09,0.85,2025-02-22 23:10:06
+France,EUR,Paris,SuperMart France,Œufs,2.2,Luc,6,13.2,2025-02-22 23:10:03,1.87,11.22,0.85,2025-02-22 23:10:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,6,10.8,2025-02-22 23:15:03,1.42,8.53,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Bob,9,16.2,2025-02-22 23:15:03,1.42,12.8,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Charlie,2,3.6,2025-02-22 23:15:03,1.42,2.84,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,David,10,18.0,2025-02-22 23:15:03,1.42,14.22,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Eve,1,1.8,2025-02-22 23:15:03,1.42,1.42,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Alice,1,0.95,2025-02-22 23:15:03,0.75,0.75,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,1,0.95,2025-02-22 23:15:03,0.75,0.75,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Charlie,4,3.8,2025-02-22 23:15:03,0.75,3.0,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,David,7,6.65,2025-02-22 23:15:03,0.75,5.25,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Eve,1,0.95,2025-02-22 23:15:03,0.75,0.75,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Alice,4,9.6,2025-02-22 23:15:03,1.9,7.58,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Bob,2,4.8,2025-02-22 23:15:03,1.9,3.79,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Charlie,6,14.4,2025-02-22 23:15:03,1.9,11.38,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,David,9,21.6,2025-02-22 23:15:03,1.9,17.06,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Eve,2,4.8,2025-02-22 23:15:03,1.9,3.79,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Alice,5,7.25,2025-02-22 23:15:03,1.15,5.73,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Bob,7,10.15,2025-02-22 23:15:03,1.15,8.02,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Charlie,6,8.7,2025-02-22 23:15:03,1.15,6.87,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,David,5,7.25,2025-02-22 23:15:03,1.15,5.73,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Eve,8,11.6,2025-02-22 23:15:03,1.15,9.16,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Alice,8,24.0,2025-02-22 23:15:03,2.37,18.96,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Bob,9,27.0,2025-02-22 23:15:03,2.37,21.33,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Charlie,8,24.0,2025-02-22 23:15:03,2.37,18.96,0.79,2025-02-22 23:15:06
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,David,4,12.0,2025-02-22 23:15:03,2.37,9.48,0.79,2025-02-22 23:15:06
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Eve,3,9.0,2025-02-22 23:15:03,2.37,7.11,0.79,2025-02-22 23:15:06
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Jean,10,13.0,2025-02-22 23:15:03,1.1,11.05,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Marie,3,3.9,2025-02-22 23:15:03,1.1,3.32,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Pierre,10,13.0,2025-02-22 23:15:03,1.1,11.05,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Sophie,1,1.3,2025-02-22 23:15:03,1.1,1.1,0.85,2025-02-22 23:15:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Luc,5,6.5,2025-02-22 23:15:03,1.1,5.52,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,2,1.4,2025-02-22 23:15:03,0.59,1.19,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Marie,4,2.8,2025-02-22 23:15:03,0.59,2.38,0.85,2025-02-22 23:15:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Pierre,6,4.199999999999999,2025-02-22 23:15:03,0.59,3.57,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Sophie,8,5.6,2025-02-22 23:15:03,0.59,4.76,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,6,4.199999999999999,2025-02-22 23:15:03,0.59,3.57,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Jean,10,18.0,2025-02-22 23:15:03,1.53,15.3,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,4,7.2,2025-02-22 23:15:03,1.53,6.12,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Pierre,8,14.4,2025-02-22 23:15:03,1.53,12.24,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Sophie,9,16.2,2025-02-22 23:15:03,1.53,13.77,0.85,2025-02-22 23:15:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Luc,10,18.0,2025-02-22 23:15:03,1.53,15.3,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Jean,4,4.0,2025-02-22 23:15:03,0.85,3.4,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Pain,1.0,Marie,7,7.0,2025-02-22 23:15:03,0.85,5.95,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,9,9.0,2025-02-22 23:15:03,0.85,7.65,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Sophie,7,7.0,2025-02-22 23:15:03,0.85,5.95,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Luc,8,8.0,2025-02-22 23:15:03,0.85,6.8,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Jean,2,4.4,2025-02-22 23:15:03,1.87,3.74,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Marie,3,6.6000000000000005,2025-02-22 23:15:03,1.87,5.61,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Pierre,4,8.8,2025-02-22 23:15:03,1.87,7.48,0.85,2025-02-22 23:15:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Sophie,10,22.0,2025-02-22 23:15:03,1.87,18.7,0.85,2025-02-22 23:15:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Luc,7,15.400000000000002,2025-02-22 23:15:03,1.87,13.09,0.85,2025-02-22 23:15:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Alice,9,16.2,2025-02-23 09:08:24,1.42,12.8,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Bob,4,7.2,2025-02-23 09:08:24,1.42,5.69,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Charlie,4,7.2,2025-02-23 09:08:24,1.42,5.69,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,David,3,5.4,2025-02-23 09:08:24,1.42,4.27,0.79,2025-02-23 09:08:53
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Eve,7,12.6,2025-02-23 09:08:24,1.42,9.95,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Alice,2,1.9,2025-02-23 09:08:24,0.75,1.5,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Bob,1,0.95,2025-02-23 09:08:24,0.75,0.75,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Charlie,7,6.65,2025-02-23 09:08:24,0.75,5.25,0.79,2025-02-23 09:08:53
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,David,9,8.549999999999999,2025-02-23 09:08:24,0.75,6.75,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Eve,3,2.85,2025-02-23 09:08:24,0.75,2.25,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Alice,3,7.199999999999999,2025-02-23 09:08:24,1.9,5.69,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Bob,10,24.0,2025-02-23 09:08:24,1.9,18.96,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Charlie,1,2.4,2025-02-23 09:08:24,1.9,1.9,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,8,19.2,2025-02-23 09:08:24,1.9,15.17,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Eve,7,16.8,2025-02-23 09:08:24,1.9,13.27,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Alice,10,14.5,2025-02-23 09:08:24,1.15,11.46,0.79,2025-02-23 09:08:53
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Bob,7,10.15,2025-02-23 09:08:24,1.15,8.02,0.79,2025-02-23 09:08:53
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,9,13.05,2025-02-23 09:08:24,1.15,10.31,0.79,2025-02-23 09:08:53
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,David,4,5.8,2025-02-23 09:08:24,1.15,4.58,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Eve,10,14.5,2025-02-23 09:08:24,1.15,11.46,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Alice,10,30.0,2025-02-23 09:08:24,2.37,23.7,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Bob,6,18.0,2025-02-23 09:08:24,2.37,14.22,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Charlie,3,9.0,2025-02-23 09:08:24,2.37,7.11,0.79,2025-02-23 09:08:53
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,David,5,15.0,2025-02-23 09:08:24,2.37,11.85,0.79,2025-02-23 09:08:53
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Eve,1,3.0,2025-02-23 09:08:24,2.37,2.37,0.79,2025-02-23 09:08:53
+France,EUR,Paris,SuperMart France,Pommes,1.3,Jean,10,13.0,2025-02-23 09:08:24,1.1,11.05,0.85,2025-02-23 09:08:55
+France,EUR,Paris,SuperMart France,Pommes,1.3,Marie,10,13.0,2025-02-23 09:08:24,1.1,11.05,0.85,2025-02-23 09:08:55
+France,EUR,Paris,SuperMart France,Pommes,1.3,Pierre,3,3.9,2025-02-23 09:08:24,1.1,3.32,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Sophie,8,10.4,2025-02-23 09:08:24,1.1,8.84,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,1,1.3,2025-02-23 09:08:24,1.1,1.1,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Jean,8,5.6,2025-02-23 09:08:24,0.59,4.76,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Marie,10,7.0,2025-02-23 09:08:24,0.59,5.95,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,8,5.6,2025-02-23 09:08:24,0.59,4.76,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,4,2.8,2025-02-23 09:08:24,0.59,2.38,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Bananes,0.7,Luc,8,5.6,2025-02-23 09:08:24,0.59,4.76,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,7,12.6,2025-02-23 09:08:24,1.53,10.71,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Lait,1.8,Marie,9,16.2,2025-02-23 09:08:24,1.53,13.77,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,QuickShop France,Lait,1.8,Pierre,4,7.2,2025-02-23 09:08:24,1.53,6.12,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Lait,1.8,Sophie,1,1.8,2025-02-23 09:08:24,1.53,1.53,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Lait,1.8,Luc,2,3.6,2025-02-23 09:08:24,1.53,3.06,0.85,2025-02-23 09:08:55
+France,EUR,Paris,SuperMart France,Pain,1.0,Jean,6,6.0,2025-02-23 09:08:24,0.85,5.1,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Pain,1.0,Marie,4,4.0,2025-02-23 09:08:24,0.85,3.4,0.85,2025-02-23 09:08:55
+France,EUR,Paris,SuperMart France,Pain,1.0,Pierre,1,1.0,2025-02-23 09:08:24,0.85,0.85,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Pain,1.0,Sophie,2,2.0,2025-02-23 09:08:24,0.85,1.7,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Pain,1.0,Luc,1,1.0,2025-02-23 09:08:24,0.85,0.85,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Jean,6,13.2,2025-02-23 09:08:24,1.87,11.22,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Marie,10,22.0,2025-02-23 09:08:24,1.87,18.7,0.85,2025-02-23 09:08:55
+France,EUR,Paris,SuperMart France,Œufs,2.2,Pierre,4,8.8,2025-02-23 09:08:24,1.87,7.48,0.85,2025-02-23 09:08:55
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Sophie,4,8.8,2025-02-23 09:08:24,1.87,7.48,0.85,2025-02-23 09:08:55
+France,EUR,Paris,QuickShop France,Œufs,2.2,Luc,4,8.8,2025-02-23 09:08:24,1.87,7.48,0.85,2025-02-23 09:08:55
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,1,1.8,2025-02-23 09:08:24,1.42,1.42,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Bob,4,7.2,2025-02-23 09:08:24,1.42,5.69,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Charlie,1,1.8,2025-02-23 09:08:24,1.42,1.42,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,David,1,1.8,2025-02-23 09:08:24,1.42,1.42,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Eve,1,1.8,2025-02-23 09:08:24,1.42,1.42,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Alice,2,1.9,2025-02-23 09:08:24,0.75,1.5,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Bob,7,6.65,2025-02-23 09:08:24,0.75,5.25,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Charlie,1,0.95,2025-02-23 09:08:24,0.75,0.75,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,David,4,3.8,2025-02-23 09:08:24,0.75,3.0,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Eve,7,6.65,2025-02-23 09:08:24,0.75,5.25,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Alice,3,7.199999999999999,2025-02-23 09:08:24,1.9,5.69,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Bob,3,7.199999999999999,2025-02-23 09:08:24,1.9,5.69,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Charlie,4,9.6,2025-02-23 09:08:24,1.9,7.58,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,7,16.8,2025-02-23 09:08:24,1.9,13.27,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Eve,7,16.8,2025-02-23 09:08:24,1.9,13.27,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Alice,4,5.8,2025-02-23 09:08:24,1.15,4.58,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Bob,2,2.9,2025-02-23 09:08:24,1.15,2.29,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Charlie,1,1.45,2025-02-23 09:08:24,1.15,1.15,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,David,10,14.5,2025-02-23 09:08:24,1.15,11.46,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Eve,3,4.35,2025-02-23 09:08:24,1.15,3.44,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Alice,4,12.0,2025-02-23 09:08:24,2.37,9.48,0.79,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Bob,9,27.0,2025-02-23 09:08:24,2.37,21.33,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Charlie,6,18.0,2025-02-23 09:08:24,2.37,14.22,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,David,2,6.0,2025-02-23 09:08:24,2.37,4.74,0.79,2025-02-23 09:08:54
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Eve,3,9.0,2025-02-23 09:08:24,2.37,7.11,0.79,2025-02-23 09:08:54
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,8,10.4,2025-02-23 09:08:24,1.1,8.84,0.85,2025-02-23 09:08:54
+France,EUR,Paris,SuperMart France,Pommes,1.3,Marie,9,11.7,2025-02-23 09:08:24,1.1,9.95,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Pierre,9,11.7,2025-02-23 09:08:24,1.1,9.95,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Sophie,3,3.9,2025-02-23 09:08:24,1.1,3.32,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Luc,2,2.6,2025-02-23 09:08:24,1.1,2.21,0.85,2025-02-23 09:08:54
+France,EUR,Paris,QuickShop France,Bananes,0.7,Jean,3,2.1,2025-02-23 09:08:24,0.59,1.78,0.85,2025-02-23 09:08:54
+France,EUR,Paris,QuickShop France,Bananes,0.7,Marie,6,4.199999999999999,2025-02-23 09:08:24,0.59,3.57,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,8,5.6,2025-02-23 09:08:24,0.59,4.76,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,10,7.0,2025-02-23 09:08:24,0.59,5.95,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,5,3.5,2025-02-23 09:08:24,0.59,2.98,0.85,2025-02-23 09:08:54
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,6,10.8,2025-02-23 09:08:24,1.53,9.18,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,10,18.0,2025-02-23 09:08:24,1.53,15.3,0.85,2025-02-23 09:08:54
+France,EUR,Paris,SuperMart France,Lait,1.8,Pierre,3,5.4,2025-02-23 09:08:24,1.53,4.59,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,SuperMart France,Lait,1.8,Sophie,2,3.6,2025-02-23 09:08:24,1.53,3.06,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,5,9.0,2025-02-23 09:08:24,1.53,7.65,0.85,2025-02-23 09:08:54
+France,EUR,Paris,SuperMart France,Pain,1.0,Jean,2,2.0,2025-02-23 09:08:24,0.85,1.7,0.85,2025-02-23 09:08:54
+France,EUR,Paris,SuperMart France,Pain,1.0,Marie,4,4.0,2025-02-23 09:08:24,0.85,3.4,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Pain,1.0,Pierre,1,1.0,2025-02-23 09:08:24,0.85,0.85,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,10,10.0,2025-02-23 09:08:24,0.85,8.5,0.85,2025-02-23 09:08:54
+France,EUR,Paris,QuickShop France,Pain,1.0,Luc,9,9.0,2025-02-23 09:08:24,0.85,7.65,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Jean,4,8.8,2025-02-23 09:08:24,1.87,7.48,0.85,2025-02-23 09:08:54
+France,EUR,Paris,SuperMart France,Œufs,2.2,Marie,2,4.4,2025-02-23 09:08:24,1.87,3.74,0.85,2025-02-23 09:08:54
+France,EUR,Paris,QuickShop France,Œufs,2.2,Pierre,9,19.8,2025-02-23 09:08:24,1.87,16.83,0.85,2025-02-23 09:08:54
+France,EUR,Paris,SuperMart France,Œufs,2.2,Sophie,2,4.4,2025-02-23 09:08:24,1.87,3.74,0.85,2025-02-23 09:08:54
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Luc,5,11.0,2025-02-23 09:08:24,1.87,9.35,0.85,2025-02-23 09:08:54
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,7,12.6,2025-02-23 09:10:03,1.42,9.95,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Bob,7,12.6,2025-02-23 09:10:03,1.42,9.95,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Charlie,7,12.6,2025-02-23 09:10:03,1.42,9.95,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,David,10,18.0,2025-02-23 09:10:03,1.42,14.22,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Eve,8,14.4,2025-02-23 09:10:03,1.42,11.38,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Alice,2,1.9,2025-02-23 09:10:03,0.75,1.5,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,6,5.699999999999999,2025-02-23 09:10:03,0.75,4.5,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Charlie,7,6.65,2025-02-23 09:10:03,0.75,5.25,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,David,7,6.65,2025-02-23 09:10:03,0.75,5.25,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Eve,6,5.699999999999999,2025-02-23 09:10:03,0.75,4.5,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Alice,9,21.6,2025-02-23 09:10:03,1.9,17.06,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Bob,1,2.4,2025-02-23 09:10:03,1.9,1.9,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Charlie,9,21.6,2025-02-23 09:10:03,1.9,17.06,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,David,10,24.0,2025-02-23 09:10:03,1.9,18.96,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Eve,10,24.0,2025-02-23 09:10:03,1.9,18.96,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Alice,3,4.35,2025-02-23 09:10:03,1.15,3.44,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Bob,8,11.6,2025-02-23 09:10:03,1.15,9.16,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,5,7.25,2025-02-23 09:10:03,1.15,5.73,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,David,10,14.5,2025-02-23 09:10:03,1.15,11.46,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Eve,6,8.7,2025-02-23 09:10:03,1.15,6.87,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Alice,7,21.0,2025-02-23 09:10:03,2.37,16.59,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Bob,5,15.0,2025-02-23 09:10:03,2.37,11.85,0.79,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Charlie,6,18.0,2025-02-23 09:10:03,2.37,14.22,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,David,6,18.0,2025-02-23 09:10:03,2.37,14.22,0.79,2025-02-23 09:10:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Eve,10,30.0,2025-02-23 09:10:03,2.37,23.7,0.79,2025-02-23 09:10:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,3,3.9,2025-02-23 09:10:03,1.1,3.32,0.85,2025-02-23 09:10:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Marie,10,13.0,2025-02-23 09:10:03,1.1,11.05,0.85,2025-02-23 09:10:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Pierre,9,11.7,2025-02-23 09:10:03,1.1,9.95,0.85,2025-02-23 09:10:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Sophie,3,3.9,2025-02-23 09:10:03,1.1,3.32,0.85,2025-02-23 09:10:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Luc,1,1.3,2025-02-23 09:10:03,1.1,1.1,0.85,2025-02-23 09:10:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,1,0.7,2025-02-23 09:10:03,0.59,0.59,0.85,2025-02-23 09:10:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,3,2.1,2025-02-23 09:10:03,0.59,1.78,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,1,0.7,2025-02-23 09:10:03,0.59,0.59,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,10,7.0,2025-02-23 09:10:03,0.59,5.95,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,3,2.1,2025-02-23 09:10:03,0.59,1.78,0.85,2025-02-23 09:10:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,9,16.2,2025-02-23 09:10:03,1.53,13.77,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,9,16.2,2025-02-23 09:10:03,1.53,13.77,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,6,10.8,2025-02-23 09:10:03,1.53,9.18,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Sophie,8,14.4,2025-02-23 09:10:03,1.53,12.24,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,1,1.8,2025-02-23 09:10:03,1.53,1.53,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Jean,4,4.0,2025-02-23 09:10:03,0.85,3.4,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Marie,7,7.0,2025-02-23 09:10:03,0.85,5.95,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,8,8.0,2025-02-23 09:10:03,0.85,6.8,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Sophie,8,8.0,2025-02-23 09:10:03,0.85,6.8,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Luc,5,5.0,2025-02-23 09:10:03,0.85,4.25,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Jean,5,11.0,2025-02-23 09:10:03,1.87,9.35,0.85,2025-02-23 09:10:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Marie,7,15.400000000000002,2025-02-23 09:10:03,1.87,13.09,0.85,2025-02-23 09:10:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,3,6.6000000000000005,2025-02-23 09:10:03,1.87,5.61,0.85,2025-02-23 09:10:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Sophie,8,17.6,2025-02-23 09:10:03,1.87,14.96,0.85,2025-02-23 09:10:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Luc,10,22.0,2025-02-23 09:10:03,1.87,18.7,0.85,2025-02-23 09:10:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,10,18.0,2025-02-23 02:35:56,1.42,14.22,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Bob,10,18.0,2025-02-23 02:35:56,1.42,14.22,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Charlie,7,12.6,2025-02-23 02:35:56,1.42,9.95,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,David,10,18.0,2025-02-23 02:35:56,1.42,14.22,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Eve,1,1.8,2025-02-23 02:35:56,1.42,1.42,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Alice,7,6.65,2025-02-23 02:35:56,0.75,5.25,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Bob,3,2.85,2025-02-23 02:35:56,0.75,2.25,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Charlie,2,1.9,2025-02-23 02:35:56,0.75,1.5,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,David,3,2.85,2025-02-23 02:35:56,0.75,2.25,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Eve,7,6.65,2025-02-23 02:35:56,0.75,5.25,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Alice,5,12.0,2025-02-23 02:35:56,1.9,9.48,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Bob,10,24.0,2025-02-23 02:35:56,1.9,18.96,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Charlie,9,21.6,2025-02-23 02:35:56,1.9,17.06,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,David,3,7.199999999999999,2025-02-23 02:35:56,1.9,5.69,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Eve,10,24.0,2025-02-23 02:35:56,1.9,18.96,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Alice,3,4.35,2025-02-23 02:35:56,1.15,3.44,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Bob,8,11.6,2025-02-23 02:35:56,1.15,9.16,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,1,1.45,2025-02-23 02:35:56,1.15,1.15,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,David,7,10.15,2025-02-23 02:35:56,1.15,8.02,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Eve,3,4.35,2025-02-23 02:35:56,1.15,3.44,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Alice,7,21.0,2025-02-23 02:35:56,2.37,16.59,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Bob,1,3.0,2025-02-23 02:35:56,2.37,2.37,0.79,2025-02-23 09:13:51
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Charlie,4,12.0,2025-02-23 02:35:56,2.37,9.48,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,3,9.0,2025-02-23 02:35:56,2.37,7.11,0.79,2025-02-23 09:13:51
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Eve,3,9.0,2025-02-23 02:35:56,2.37,7.11,0.79,2025-02-23 09:13:51
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,2,2.6,2025-02-23 02:35:55,1.1,2.21,0.85,2025-02-23 09:08:24
+France,EUR,Paris,QuickShop France,Pommes,1.3,Marie,5,6.5,2025-02-23 02:35:55,1.1,5.52,0.85,2025-02-23 09:08:24
+France,EUR,Paris,QuickShop France,Pommes,1.3,Pierre,9,11.7,2025-02-23 02:35:55,1.1,9.95,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Sophie,4,5.2,2025-02-23 02:35:55,1.1,4.42,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,9,11.7,2025-02-23 02:35:55,1.1,9.95,0.85,2025-02-23 09:08:24
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,7,4.9,2025-02-23 02:35:55,0.59,4.16,0.85,2025-02-23 09:08:24
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,5,3.5,2025-02-23 02:35:55,0.59,2.98,0.85,2025-02-23 09:08:24
+France,EUR,Paris,QuickShop France,Bananes,0.7,Pierre,2,1.4,2025-02-23 02:35:55,0.59,1.19,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,6,4.199999999999999,2025-02-23 02:35:55,0.59,3.57,0.85,2025-02-23 09:08:24
+France,EUR,Paris,QuickShop France,Bananes,0.7,Luc,5,3.5,2025-02-23 02:35:55,0.59,2.98,0.85,2025-02-23 09:08:24
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,10,18.0,2025-02-23 02:35:55,1.53,15.3,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,5,9.0,2025-02-23 02:35:55,1.53,7.65,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,4,7.2,2025-02-23 02:35:55,1.53,6.12,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,QuickShop France,Lait,1.8,Sophie,1,1.8,2025-02-23 02:35:55,1.53,1.53,0.85,2025-02-23 09:08:24
+France,EUR,Paris,QuickShop France,Lait,1.8,Luc,2,3.6,2025-02-23 02:35:55,1.53,3.06,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,QuickShop France,Pain,1.0,Jean,7,7.0,2025-02-23 02:35:55,0.85,5.95,0.85,2025-02-23 09:08:24
+France,EUR,Paris,SuperMart France,Pain,1.0,Marie,9,9.0,2025-02-23 02:35:55,0.85,7.65,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,3,3.0,2025-02-23 02:35:55,0.85,2.55,0.85,2025-02-23 09:08:24
+France,EUR,Paris,QuickShop France,Pain,1.0,Sophie,9,9.0,2025-02-23 02:35:55,0.85,7.65,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,SuperMart France,Pain,1.0,Luc,9,9.0,2025-02-23 02:35:55,0.85,7.65,0.85,2025-02-23 09:08:24
+France,EUR,Paris,SuperMart France,Œufs,2.2,Jean,7,15.400000000000002,2025-02-23 02:35:55,1.87,13.09,0.85,2025-02-23 09:08:24
+France,EUR,Paris,QuickShop France,Œufs,2.2,Marie,3,6.6000000000000005,2025-02-23 02:35:55,1.87,5.61,0.85,2025-02-23 09:08:24
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,5,11.0,2025-02-23 02:35:55,1.87,9.35,0.85,2025-02-23 09:08:24
+France,EUR,Paris,SuperMart France,Œufs,2.2,Sophie,10,22.0,2025-02-23 02:35:55,1.87,18.7,0.85,2025-02-23 09:08:24
+France,EUR,Paris,SuperMart France,Œufs,2.2,Luc,6,13.2,2025-02-23 02:35:55,1.87,11.22,0.85,2025-02-23 09:08:24
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Alice,10,18.0,2025-02-23 09:07:22,1.42,14.22,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Bob,10,18.0,2025-02-23 09:07:22,1.42,14.22,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Charlie,1,1.8,2025-02-23 09:07:22,1.42,1.42,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,David,7,12.6,2025-02-23 09:07:22,1.42,9.95,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Eve,10,18.0,2025-02-23 09:07:22,1.42,14.22,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Alice,3,2.85,2025-02-23 09:07:22,0.75,2.25,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,7,6.65,2025-02-23 09:07:22,0.75,5.25,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Charlie,6,5.699999999999999,2025-02-23 09:07:22,0.75,4.5,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,9,8.549999999999999,2025-02-23 09:07:22,0.75,6.75,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Eve,2,1.9,2025-02-23 09:07:22,0.75,1.5,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Alice,3,7.199999999999999,2025-02-23 09:07:22,1.9,5.69,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Bob,6,14.4,2025-02-23 09:07:22,1.9,11.38,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Charlie,5,12.0,2025-02-23 09:07:22,1.9,9.48,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,10,24.0,2025-02-23 09:07:22,1.9,18.96,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Eve,8,19.2,2025-02-23 09:07:22,1.9,15.17,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Alice,1,1.45,2025-02-23 09:07:22,1.15,1.15,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Bob,10,14.5,2025-02-23 09:07:22,1.15,11.46,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,6,8.7,2025-02-23 09:07:22,1.15,6.87,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,David,2,2.9,2025-02-23 09:07:22,1.15,2.29,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Eve,10,14.5,2025-02-23 09:07:22,1.15,11.46,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Alice,6,18.0,2025-02-23 09:07:22,2.37,14.22,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Bob,10,30.0,2025-02-23 09:07:22,2.37,23.7,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Charlie,5,15.0,2025-02-23 09:07:22,2.37,11.85,0.79,2025-02-23 09:08:25
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,6,18.0,2025-02-23 09:07:22,2.37,14.22,0.79,2025-02-23 09:08:25
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Eve,2,6.0,2025-02-23 09:07:22,2.37,4.74,0.79,2025-02-23 09:08:25
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,1,1.3,2025-02-23 09:14:01,1.1,1.1,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Marie,9,11.7,2025-02-23 09:14:01,1.1,9.95,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Pierre,1,1.3,2025-02-23 09:14:01,1.1,1.1,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Pommes,1.3,Sophie,1,1.3,2025-02-23 09:14:01,1.1,1.1,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,9,11.7,2025-02-23 09:14:01,1.1,9.95,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Jean,1,0.7,2025-02-23 09:14:01,0.59,0.59,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Marie,8,5.6,2025-02-23 09:14:01,0.59,4.76,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Bananes,0.7,Pierre,3,2.1,2025-02-23 09:14:01,0.59,1.78,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Bananes,0.7,Sophie,2,1.4,2025-02-23 09:14:01,0.59,1.19,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,7,4.9,2025-02-23 09:14:01,0.59,4.16,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Lait,1.8,Jean,3,5.4,2025-02-23 09:14:01,1.53,4.59,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Lait,1.8,Marie,9,16.2,2025-02-23 09:14:01,1.53,13.77,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Lait,1.8,Pierre,8,14.4,2025-02-23 09:14:01,1.53,12.24,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Lait,1.8,Sophie,7,12.6,2025-02-23 09:14:01,1.53,10.71,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,2,3.6,2025-02-23 09:14:01,1.53,3.06,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Pain,1.0,Jean,6,6.0,2025-02-23 09:14:01,0.85,5.1,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Pain,1.0,Marie,7,7.0,2025-02-23 09:14:01,0.85,5.95,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Pain,1.0,Pierre,6,6.0,2025-02-23 09:14:01,0.85,5.1,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,1,1.0,2025-02-23 09:14:01,0.85,0.85,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Pain,1.0,Luc,3,3.0,2025-02-23 09:14:01,0.85,2.55,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Œufs,2.2,Jean,1,2.2,2025-02-23 09:14:01,1.87,1.87,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Marie,2,4.4,2025-02-23 09:14:01,1.87,3.74,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Œufs,2.2,Pierre,2,4.4,2025-02-23 09:14:01,1.87,3.74,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Sophie,9,19.8,2025-02-23 09:14:01,1.87,16.83,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Œufs,2.2,Luc,4,8.8,2025-02-23 09:14:01,1.87,7.48,0.85,2025-02-23 09:14:04
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,3,5.4,2025-02-23 09:14:11,1.42,4.27,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Bob,10,18.0,2025-02-23 09:14:11,1.42,14.22,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Charlie,2,3.6,2025-02-23 09:14:11,1.42,2.84,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,David,5,9.0,2025-02-23 09:14:11,1.42,7.11,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Eve,7,12.6,2025-02-23 09:14:11,1.42,9.95,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Alice,1,0.95,2025-02-23 09:14:11,0.75,0.75,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Bob,8,7.6,2025-02-23 09:14:11,0.75,6.0,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Charlie,10,9.5,2025-02-23 09:14:11,0.75,7.51,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,9,8.549999999999999,2025-02-23 09:14:11,0.75,6.75,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Eve,2,1.9,2025-02-23 09:14:11,0.75,1.5,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Alice,3,7.199999999999999,2025-02-23 09:14:11,1.9,5.69,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Bob,3,7.199999999999999,2025-02-23 09:14:11,1.9,5.69,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Charlie,8,19.2,2025-02-23 09:14:11,1.9,15.17,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,7,16.8,2025-02-23 09:14:11,1.9,13.27,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Eve,9,21.6,2025-02-23 09:14:11,1.9,17.06,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Alice,7,10.15,2025-02-23 09:14:11,1.15,8.02,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Bob,6,8.7,2025-02-23 09:14:11,1.15,6.87,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,7,10.15,2025-02-23 09:14:11,1.15,8.02,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,David,6,8.7,2025-02-23 09:14:11,1.15,6.87,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Eve,5,7.25,2025-02-23 09:14:11,1.15,5.73,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Alice,2,6.0,2025-02-23 09:14:11,2.37,4.74,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Bob,8,24.0,2025-02-23 09:14:11,2.37,18.96,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Charlie,3,9.0,2025-02-23 09:14:11,2.37,7.11,0.79,2025-02-23 09:14:14
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,David,5,15.0,2025-02-23 09:14:11,2.37,11.85,0.79,2025-02-23 09:14:14
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Eve,2,6.0,2025-02-23 09:14:11,2.37,4.74,0.79,2025-02-23 09:14:14
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,5,6.5,2025-02-23 09:14:00,1.1,5.52,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Pommes,1.3,Marie,7,9.1,2025-02-23 09:14:00,1.1,7.73,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Pierre,3,3.9,2025-02-23 09:14:00,1.1,3.32,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Pommes,1.3,Sophie,10,13.0,2025-02-23 09:14:00,1.1,11.05,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Luc,7,9.1,2025-02-23 09:14:00,1.1,7.73,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Jean,5,3.5,2025-02-23 09:14:00,0.59,2.98,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Bananes,0.7,Marie,6,4.199999999999999,2025-02-23 09:14:00,0.59,3.57,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Pierre,10,7.0,2025-02-23 09:14:00,0.59,5.95,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,4,2.8,2025-02-23 09:14:00,0.59,2.38,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Luc,7,4.9,2025-02-23 09:14:00,0.59,4.16,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,1,1.8,2025-02-23 09:14:00,1.53,1.53,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Lait,1.8,Marie,5,9.0,2025-02-23 09:14:00,1.53,7.65,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,7,12.6,2025-02-23 09:14:00,1.53,10.71,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Lait,1.8,Sophie,6,10.8,2025-02-23 09:14:00,1.53,9.18,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,9,16.2,2025-02-23 09:14:00,1.53,13.77,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Pain,1.0,Jean,3,3.0,2025-02-23 09:14:00,0.85,2.55,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Pain,1.0,Marie,5,5.0,2025-02-23 09:14:00,0.85,4.25,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,8,8.0,2025-02-23 09:14:00,0.85,6.8,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Pain,1.0,Sophie,3,3.0,2025-02-23 09:14:00,0.85,2.55,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Pain,1.0,Luc,9,9.0,2025-02-23 09:14:00,0.85,7.65,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Œufs,2.2,Jean,9,19.8,2025-02-23 09:14:00,1.87,16.83,0.85,2025-02-23 09:14:04
+France,EUR,Paris,QuickShop France,Œufs,2.2,Marie,10,22.0,2025-02-23 09:14:00,1.87,18.7,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,3,6.6000000000000005,2025-02-23 09:14:00,1.87,5.61,0.85,2025-02-23 09:14:04
+France,EUR,Paris,SuperMart France,Œufs,2.2,Sophie,1,2.2,2025-02-23 09:14:00,1.87,1.87,0.85,2025-02-23 09:14:04
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Luc,1,2.2,2025-02-23 09:14:00,1.87,1.87,0.85,2025-02-23 09:14:04
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Alice,7,12.6,2025-02-23 09:15:03,1.42,9.95,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Bob,8,14.4,2025-02-23 09:15:03,1.42,11.38,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Charlie,7,12.6,2025-02-23 09:15:03,1.42,9.95,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,David,9,16.2,2025-02-23 09:15:03,1.42,12.8,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Eve,10,18.0,2025-02-23 09:15:03,1.42,14.22,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Alice,5,4.75,2025-02-23 09:15:03,0.75,3.75,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,2,1.9,2025-02-23 09:15:03,0.75,1.5,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Charlie,8,7.6,2025-02-23 09:15:03,0.75,6.0,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,David,2,1.9,2025-02-23 09:15:03,0.75,1.5,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Eve,1,0.95,2025-02-23 09:15:03,0.75,0.75,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Alice,5,12.0,2025-02-23 09:15:03,1.9,9.48,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Bob,1,2.4,2025-02-23 09:15:03,1.9,1.9,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Charlie,4,9.6,2025-02-23 09:15:03,1.9,7.58,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,5,12.0,2025-02-23 09:15:03,1.9,9.48,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Eve,4,9.6,2025-02-23 09:15:03,1.9,7.58,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Alice,3,4.35,2025-02-23 09:15:03,1.15,3.44,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Bob,7,10.15,2025-02-23 09:15:03,1.15,8.02,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Charlie,6,8.7,2025-02-23 09:15:03,1.15,6.87,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,David,1,1.45,2025-02-23 09:15:03,1.15,1.15,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Eve,3,4.35,2025-02-23 09:15:03,1.15,3.44,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Alice,3,9.0,2025-02-23 09:15:03,2.37,7.11,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Bob,1,3.0,2025-02-23 09:15:03,2.37,2.37,0.79,2025-02-23 09:15:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Charlie,3,9.0,2025-02-23 09:15:03,2.37,7.11,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,3,9.0,2025-02-23 09:15:03,2.37,7.11,0.79,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Eve,1,3.0,2025-02-23 09:15:03,2.37,2.37,0.79,2025-02-23 09:15:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,2,2.6,2025-02-23 09:15:03,1.1,2.21,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Marie,7,9.1,2025-02-23 09:15:03,1.1,7.73,0.85,2025-02-23 09:15:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Pierre,8,10.4,2025-02-23 09:15:03,1.1,8.84,0.85,2025-02-23 09:15:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Sophie,7,9.1,2025-02-23 09:15:03,1.1,7.73,0.85,2025-02-23 09:15:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Luc,8,10.4,2025-02-23 09:15:03,1.1,8.84,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Jean,8,5.6,2025-02-23 09:15:03,0.59,4.76,0.85,2025-02-23 09:15:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Marie,7,4.9,2025-02-23 09:15:03,0.59,4.16,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Pierre,7,4.9,2025-02-23 09:15:03,0.59,4.16,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Sophie,4,2.8,2025-02-23 09:15:03,0.59,2.38,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,6,4.199999999999999,2025-02-23 09:15:03,0.59,3.57,0.85,2025-02-23 09:15:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,6,10.8,2025-02-23 09:15:03,1.53,9.18,0.85,2025-02-23 09:15:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Marie,5,9.0,2025-02-23 09:15:03,1.53,7.65,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,7,12.6,2025-02-23 09:15:03,1.53,10.71,0.85,2025-02-23 09:15:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Sophie,9,16.2,2025-02-23 09:15:03,1.53,13.77,0.85,2025-02-23 09:15:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Luc,2,3.6,2025-02-23 09:15:03,1.53,3.06,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Jean,1,1.0,2025-02-23 09:15:03,0.85,0.85,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Marie,2,2.0,2025-02-23 09:15:03,0.85,1.7,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,9,9.0,2025-02-23 09:15:03,0.85,7.65,0.85,2025-02-23 09:15:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Sophie,6,6.0,2025-02-23 09:15:03,0.85,5.1,0.85,2025-02-23 09:15:07
+France,EUR,Paris,SuperMart France,Pain,1.0,Luc,2,2.0,2025-02-23 09:15:03,0.85,1.7,0.85,2025-02-23 09:15:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Jean,10,22.0,2025-02-23 09:15:03,1.87,18.7,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Marie,7,15.400000000000002,2025-02-23 09:15:03,1.87,13.09,0.85,2025-02-23 09:15:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Pierre,3,6.6000000000000005,2025-02-23 09:15:03,1.87,5.61,0.85,2025-02-23 09:15:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Sophie,3,6.6000000000000005,2025-02-23 09:15:03,1.87,5.61,0.85,2025-02-23 09:15:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Luc,6,13.2,2025-02-23 09:15:03,1.87,11.22,0.85,2025-02-23 09:15:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Alice,4,7.2,2025-02-23 09:20:03,1.42,5.69,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Bob,10,18.0,2025-02-23 09:20:03,1.42,14.22,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Charlie,7,12.6,2025-02-23 09:20:03,1.42,9.95,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,David,7,12.6,2025-02-23 09:20:03,1.42,9.95,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Eve,5,9.0,2025-02-23 09:20:03,1.42,7.11,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Alice,6,5.699999999999999,2025-02-23 09:20:03,0.75,4.5,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Bob,2,1.9,2025-02-23 09:20:03,0.75,1.5,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Charlie,5,4.75,2025-02-23 09:20:03,0.75,3.75,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,9,8.549999999999999,2025-02-23 09:20:03,0.75,6.75,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Eve,8,7.6,2025-02-23 09:20:03,0.75,6.0,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Alice,7,16.8,2025-02-23 09:20:03,1.9,13.27,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Bob,6,14.4,2025-02-23 09:20:03,1.9,11.38,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Charlie,6,14.4,2025-02-23 09:20:03,1.9,11.38,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,David,4,9.6,2025-02-23 09:20:03,1.9,7.58,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Eve,7,16.8,2025-02-23 09:20:03,1.9,13.27,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Alice,6,8.7,2025-02-23 09:20:03,1.15,6.87,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Bob,8,11.6,2025-02-23 09:20:03,1.15,9.16,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,8,11.6,2025-02-23 09:20:03,1.15,9.16,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,David,3,4.35,2025-02-23 09:20:03,1.15,3.44,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Eve,7,10.15,2025-02-23 09:20:03,1.15,8.02,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Alice,1,3.0,2025-02-23 09:20:03,2.37,2.37,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Bob,6,18.0,2025-02-23 09:20:03,2.37,14.22,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Charlie,4,12.0,2025-02-23 09:20:03,2.37,9.48,0.79,2025-02-23 09:20:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,2,6.0,2025-02-23 09:20:03,2.37,4.74,0.79,2025-02-23 09:20:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Eve,9,27.0,2025-02-23 09:20:03,2.37,21.33,0.79,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Jean,3,3.9,2025-02-23 09:20:03,1.1,3.32,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Marie,4,5.2,2025-02-23 09:20:03,1.1,4.42,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Pierre,6,7.800000000000001,2025-02-23 09:20:03,1.1,6.63,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Sophie,3,3.9,2025-02-23 09:20:03,1.1,3.32,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,4,5.2,2025-02-23 09:20:03,1.1,4.42,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Jean,6,4.199999999999999,2025-02-23 09:20:03,0.59,3.57,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Marie,2,1.4,2025-02-23 09:20:03,0.59,1.19,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,9,6.3,2025-02-23 09:20:03,0.59,5.35,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Sophie,5,3.5,2025-02-23 09:20:03,0.59,2.98,0.85,2025-02-23 09:20:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Luc,6,4.199999999999999,2025-02-23 09:20:03,0.59,3.57,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,1,1.8,2025-02-23 09:20:03,1.53,1.53,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Marie,1,1.8,2025-02-23 09:20:03,1.53,1.53,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,9,16.2,2025-02-23 09:20:03,1.53,13.77,0.85,2025-02-23 09:20:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Sophie,9,16.2,2025-02-23 09:20:03,1.53,13.77,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Luc,6,10.8,2025-02-23 09:20:03,1.53,9.18,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Jean,3,3.0,2025-02-23 09:20:03,0.85,2.55,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Marie,8,8.0,2025-02-23 09:20:03,0.85,6.8,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Pierre,4,4.0,2025-02-23 09:20:03,0.85,3.4,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Sophie,2,2.0,2025-02-23 09:20:03,0.85,1.7,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Luc,9,9.0,2025-02-23 09:20:03,0.85,7.65,0.85,2025-02-23 09:20:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Jean,2,4.4,2025-02-23 09:20:03,1.87,3.74,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Marie,5,11.0,2025-02-23 09:20:03,1.87,9.35,0.85,2025-02-23 09:20:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Pierre,1,2.2,2025-02-23 09:20:03,1.87,1.87,0.85,2025-02-23 09:20:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Sophie,2,4.4,2025-02-23 09:20:03,1.87,3.74,0.85,2025-02-23 09:20:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Luc,6,13.2,2025-02-23 09:20:03,1.87,11.22,0.85,2025-02-23 09:20:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Alice,4,7.2,2025-02-23 09:25:03,1.42,5.69,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Bob,1,1.8,2025-02-23 09:25:03,1.42,1.42,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Charlie,5,9.0,2025-02-23 09:25:03,1.42,7.11,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,David,8,14.4,2025-02-23 09:25:03,1.42,11.38,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Eve,3,5.4,2025-02-23 09:25:03,1.42,4.27,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Alice,10,9.5,2025-02-23 09:25:03,0.75,7.51,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Bob,10,9.5,2025-02-23 09:25:03,0.75,7.51,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Charlie,3,2.85,2025-02-23 09:25:03,0.75,2.25,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,10,9.5,2025-02-23 09:25:03,0.75,7.51,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Eve,3,2.85,2025-02-23 09:25:03,0.75,2.25,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Alice,7,16.8,2025-02-23 09:25:03,1.9,13.27,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Bob,8,19.2,2025-02-23 09:25:03,1.9,15.17,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Charlie,1,2.4,2025-02-23 09:25:03,1.9,1.9,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,David,7,16.8,2025-02-23 09:25:03,1.9,13.27,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Eve,4,9.6,2025-02-23 09:25:03,1.9,7.58,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Alice,5,7.25,2025-02-23 09:25:03,1.15,5.73,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Bob,7,10.15,2025-02-23 09:25:03,1.15,8.02,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Charlie,7,10.15,2025-02-23 09:25:03,1.15,8.02,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,David,4,5.8,2025-02-23 09:25:03,1.15,4.58,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Eve,7,10.15,2025-02-23 09:25:03,1.15,8.02,0.79,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Alice,7,21.0,2025-02-23 09:25:03,2.37,16.59,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Bob,5,15.0,2025-02-23 09:25:03,2.37,11.85,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Charlie,10,30.0,2025-02-23 09:25:03,2.37,23.7,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,David,6,18.0,2025-02-23 09:25:03,2.37,14.22,0.79,2025-02-23 09:25:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Eve,7,21.0,2025-02-23 09:25:03,2.37,16.59,0.79,2025-02-23 09:25:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Jean,2,2.6,2025-02-23 09:25:03,1.1,2.21,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Marie,2,2.6,2025-02-23 09:25:03,1.1,2.21,0.85,2025-02-23 09:25:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Pierre,10,13.0,2025-02-23 09:25:03,1.1,11.05,0.85,2025-02-23 09:25:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Sophie,3,3.9,2025-02-23 09:25:03,1.1,3.32,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,2,2.6,2025-02-23 09:25:03,1.1,2.21,0.85,2025-02-23 09:25:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,9,6.3,2025-02-23 09:25:03,0.59,5.35,0.85,2025-02-23 09:25:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,6,4.199999999999999,2025-02-23 09:25:03,0.59,3.57,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,7,4.9,2025-02-23 09:25:03,0.59,4.16,0.85,2025-02-23 09:25:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Sophie,5,3.5,2025-02-23 09:25:03,0.59,2.98,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,6,4.199999999999999,2025-02-23 09:25:03,0.59,3.57,0.85,2025-02-23 09:25:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,1,1.8,2025-02-23 09:25:03,1.53,1.53,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,3,5.4,2025-02-23 09:25:03,1.53,4.59,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Pierre,1,1.8,2025-02-23 09:25:03,1.53,1.53,0.85,2025-02-23 09:25:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Sophie,9,16.2,2025-02-23 09:25:03,1.53,13.77,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,1,1.8,2025-02-23 09:25:03,1.53,1.53,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Jean,4,4.0,2025-02-23 09:25:03,0.85,3.4,0.85,2025-02-23 09:25:07
+France,EUR,Paris,SuperMart France,Pain,1.0,Marie,9,9.0,2025-02-23 09:25:03,0.85,7.65,0.85,2025-02-23 09:25:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Pierre,8,8.0,2025-02-23 09:25:03,0.85,6.8,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,4,4.0,2025-02-23 09:25:03,0.85,3.4,0.85,2025-02-23 09:25:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Luc,8,8.0,2025-02-23 09:25:03,0.85,6.8,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Jean,2,4.4,2025-02-23 09:25:03,1.87,3.74,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Marie,7,15.400000000000002,2025-02-23 09:25:03,1.87,13.09,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,10,22.0,2025-02-23 09:25:03,1.87,18.7,0.85,2025-02-23 09:25:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Sophie,4,8.8,2025-02-23 09:25:03,1.87,7.48,0.85,2025-02-23 09:25:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Luc,7,15.400000000000002,2025-02-23 09:25:03,1.87,13.09,0.85,2025-02-23 09:25:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,5,9.0,2025-02-23 09:30:03,1.42,7.11,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Bob,6,10.8,2025-02-23 09:30:03,1.42,8.53,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Charlie,6,10.8,2025-02-23 09:30:03,1.42,8.53,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,David,2,3.6,2025-02-23 09:30:03,1.42,2.84,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Eve,3,5.4,2025-02-23 09:30:03,1.42,4.27,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Alice,9,8.549999999999999,2025-02-23 09:30:03,0.75,6.75,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,8,7.6,2025-02-23 09:30:03,0.75,6.0,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Charlie,1,0.95,2025-02-23 09:30:03,0.75,0.75,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,3,2.85,2025-02-23 09:30:03,0.75,2.25,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Eve,6,5.699999999999999,2025-02-23 09:30:03,0.75,4.5,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Alice,7,16.8,2025-02-23 09:30:03,1.9,13.27,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Bob,3,7.199999999999999,2025-02-23 09:30:03,1.9,5.69,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Charlie,3,7.199999999999999,2025-02-23 09:30:03,1.9,5.69,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,David,1,2.4,2025-02-23 09:30:03,1.9,1.9,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Eve,4,9.6,2025-02-23 09:30:03,1.9,7.58,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Alice,3,4.35,2025-02-23 09:30:03,1.15,3.44,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Bob,2,2.9,2025-02-23 09:30:03,1.15,2.29,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,2,2.9,2025-02-23 09:30:03,1.15,2.29,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,David,4,5.8,2025-02-23 09:30:03,1.15,4.58,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Eve,1,1.45,2025-02-23 09:30:03,1.15,1.15,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Alice,6,18.0,2025-02-23 09:30:03,2.37,14.22,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Bob,7,21.0,2025-02-23 09:30:03,2.37,16.59,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Charlie,6,18.0,2025-02-23 09:30:03,2.37,14.22,0.79,2025-02-23 09:30:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,David,3,9.0,2025-02-23 09:30:03,2.37,7.11,0.79,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Eve,4,12.0,2025-02-23 09:30:03,2.37,9.48,0.79,2025-02-23 09:30:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Jean,7,9.1,2025-02-23 09:30:03,1.1,7.73,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Marie,9,11.7,2025-02-23 09:30:03,1.1,9.95,0.85,2025-02-23 09:30:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Pierre,4,5.2,2025-02-23 09:30:03,1.1,4.42,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Sophie,4,5.2,2025-02-23 09:30:03,1.1,4.42,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Luc,9,11.7,2025-02-23 09:30:03,1.1,9.95,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Jean,9,6.3,2025-02-23 09:30:03,0.59,5.35,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Marie,4,2.8,2025-02-23 09:30:03,0.59,2.38,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,6,4.199999999999999,2025-02-23 09:30:03,0.59,3.57,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Sophie,10,7.0,2025-02-23 09:30:03,0.59,5.95,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,8,5.6,2025-02-23 09:30:03,0.59,4.76,0.85,2025-02-23 09:30:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,7,12.6,2025-02-23 09:30:03,1.53,10.71,0.85,2025-02-23 09:30:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Marie,2,3.6,2025-02-23 09:30:03,1.53,3.06,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,4,7.2,2025-02-23 09:30:03,1.53,6.12,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Sophie,4,7.2,2025-02-23 09:30:03,1.53,6.12,0.85,2025-02-23 09:30:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Luc,6,10.8,2025-02-23 09:30:03,1.53,9.18,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Jean,8,8.0,2025-02-23 09:30:03,0.85,6.8,0.85,2025-02-23 09:30:07
+France,EUR,Paris,SuperMart France,Pain,1.0,Marie,10,10.0,2025-02-23 09:30:03,0.85,8.5,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,10,10.0,2025-02-23 09:30:03,0.85,8.5,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Sophie,1,1.0,2025-02-23 09:30:03,0.85,0.85,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Luc,5,5.0,2025-02-23 09:30:03,0.85,4.25,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Jean,3,6.6000000000000005,2025-02-23 09:30:03,1.87,5.61,0.85,2025-02-23 09:30:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Marie,7,15.400000000000002,2025-02-23 09:30:03,1.87,13.09,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,6,13.2,2025-02-23 09:30:03,1.87,11.22,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Sophie,8,17.6,2025-02-23 09:30:03,1.87,14.96,0.85,2025-02-23 09:30:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Luc,2,4.4,2025-02-23 09:30:03,1.87,3.74,0.85,2025-02-23 09:30:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Alice,3,5.4,2025-02-23 09:35:03,1.42,4.27,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Bob,10,18.0,2025-02-23 09:35:03,1.42,14.22,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Charlie,2,3.6,2025-02-23 09:35:03,1.42,2.84,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,David,10,18.0,2025-02-23 09:35:03,1.42,14.22,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Eve,1,1.8,2025-02-23 09:35:03,1.42,1.42,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Alice,1,0.95,2025-02-23 09:35:03,0.75,0.75,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Bob,10,9.5,2025-02-23 09:35:03,0.75,7.51,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Charlie,3,2.85,2025-02-23 09:35:03,0.75,2.25,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,David,3,2.85,2025-02-23 09:35:03,0.75,2.25,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Eve,7,6.65,2025-02-23 09:35:03,0.75,5.25,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Alice,3,7.199999999999999,2025-02-23 09:35:03,1.9,5.69,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Bob,6,14.4,2025-02-23 09:35:03,1.9,11.38,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Charlie,6,14.4,2025-02-23 09:35:03,1.9,11.38,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,2,4.8,2025-02-23 09:35:03,1.9,3.79,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Eve,3,7.199999999999999,2025-02-23 09:35:03,1.9,5.69,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Alice,4,5.8,2025-02-23 09:35:03,1.15,4.58,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Bob,9,13.05,2025-02-23 09:35:03,1.15,10.31,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Charlie,6,8.7,2025-02-23 09:35:03,1.15,6.87,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,David,9,13.05,2025-02-23 09:35:03,1.15,10.31,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Eve,5,7.25,2025-02-23 09:35:03,1.15,5.73,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Alice,6,18.0,2025-02-23 09:35:03,2.37,14.22,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Bob,3,9.0,2025-02-23 09:35:03,2.37,7.11,0.79,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Charlie,10,30.0,2025-02-23 09:35:03,2.37,23.7,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,David,1,3.0,2025-02-23 09:35:03,2.37,2.37,0.79,2025-02-23 09:35:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Eve,6,18.0,2025-02-23 09:35:03,2.37,14.22,0.79,2025-02-23 09:35:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,4,5.2,2025-02-23 09:35:03,1.1,4.42,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Marie,4,5.2,2025-02-23 09:35:03,1.1,4.42,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Pierre,1,1.3,2025-02-23 09:35:03,1.1,1.1,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Sophie,10,13.0,2025-02-23 09:35:03,1.1,11.05,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Luc,5,6.5,2025-02-23 09:35:03,1.1,5.52,0.85,2025-02-23 09:35:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,2,1.4,2025-02-23 09:35:03,0.59,1.19,0.85,2025-02-23 09:35:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,2,1.4,2025-02-23 09:35:03,0.59,1.19,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Pierre,3,2.1,2025-02-23 09:35:03,0.59,1.78,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,7,4.9,2025-02-23 09:35:03,0.59,4.16,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Luc,9,6.3,2025-02-23 09:35:03,0.59,5.35,0.85,2025-02-23 09:35:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,4,7.2,2025-02-23 09:35:03,1.53,6.12,0.85,2025-02-23 09:35:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Marie,10,18.0,2025-02-23 09:35:03,1.53,15.3,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,2,3.6,2025-02-23 09:35:03,1.53,3.06,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Sophie,1,1.8,2025-02-23 09:35:03,1.53,1.53,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Luc,1,1.8,2025-02-23 09:35:03,1.53,1.53,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Jean,7,7.0,2025-02-23 09:35:03,0.85,5.95,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Marie,6,6.0,2025-02-23 09:35:03,0.85,5.1,0.85,2025-02-23 09:35:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Pierre,6,6.0,2025-02-23 09:35:03,0.85,5.1,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Sophie,6,6.0,2025-02-23 09:35:03,0.85,5.1,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Luc,8,8.0,2025-02-23 09:35:03,0.85,6.8,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Jean,4,8.8,2025-02-23 09:35:03,1.87,7.48,0.85,2025-02-23 09:35:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Marie,7,15.400000000000002,2025-02-23 09:35:03,1.87,13.09,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,7,15.400000000000002,2025-02-23 09:35:03,1.87,13.09,0.85,2025-02-23 09:35:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Sophie,7,15.400000000000002,2025-02-23 09:35:03,1.87,13.09,0.85,2025-02-23 09:35:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Luc,2,4.4,2025-02-23 09:35:03,1.87,3.74,0.85,2025-02-23 09:35:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,2,3.6,2025-02-23 09:40:03,1.42,2.84,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Bob,10,18.0,2025-02-23 09:40:03,1.42,14.22,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Charlie,7,12.6,2025-02-23 09:40:03,1.42,9.95,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,David,7,12.6,2025-02-23 09:40:03,1.42,9.95,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Eve,4,7.2,2025-02-23 09:40:03,1.42,5.69,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Alice,7,6.65,2025-02-23 09:40:03,0.75,5.25,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Bob,5,4.75,2025-02-23 09:40:03,0.75,3.75,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Charlie,2,1.9,2025-02-23 09:40:03,0.75,1.5,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,David,7,6.65,2025-02-23 09:40:03,0.75,5.25,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Eve,5,4.75,2025-02-23 09:40:03,0.75,3.75,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Alice,9,21.6,2025-02-23 09:40:03,1.9,17.06,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Bob,3,7.199999999999999,2025-02-23 09:40:03,1.9,5.69,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Charlie,1,2.4,2025-02-23 09:40:03,1.9,1.9,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,David,4,9.6,2025-02-23 09:40:03,1.9,7.58,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Eve,2,4.8,2025-02-23 09:40:03,1.9,3.79,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Alice,1,1.45,2025-02-23 09:40:03,1.15,1.15,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Bob,6,8.7,2025-02-23 09:40:03,1.15,6.87,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Charlie,3,4.35,2025-02-23 09:40:03,1.15,3.44,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,David,2,2.9,2025-02-23 09:40:03,1.15,2.29,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Eve,9,13.05,2025-02-23 09:40:03,1.15,10.31,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Alice,6,18.0,2025-02-23 09:40:03,2.37,14.22,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Bob,8,24.0,2025-02-23 09:40:03,2.37,18.96,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Charlie,3,9.0,2025-02-23 09:40:03,2.37,7.11,0.79,2025-02-23 09:40:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,David,8,24.0,2025-02-23 09:40:03,2.37,18.96,0.79,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Eve,8,24.0,2025-02-23 09:40:03,2.37,18.96,0.79,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Jean,6,7.800000000000001,2025-02-23 09:40:03,1.1,6.63,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Marie,9,11.7,2025-02-23 09:40:03,1.1,9.95,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Pierre,7,9.1,2025-02-23 09:40:03,1.1,7.73,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Sophie,1,1.3,2025-02-23 09:40:03,1.1,1.1,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,1,1.3,2025-02-23 09:40:03,1.1,1.1,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Jean,9,6.3,2025-02-23 09:40:03,0.59,5.35,0.85,2025-02-23 09:40:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Marie,9,6.3,2025-02-23 09:40:03,0.59,5.35,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,2,1.4,2025-02-23 09:40:03,0.59,1.19,0.85,2025-02-23 09:40:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Sophie,10,7.0,2025-02-23 09:40:03,0.59,5.95,0.85,2025-02-23 09:40:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Luc,4,2.8,2025-02-23 09:40:03,0.59,2.38,0.85,2025-02-23 09:40:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,8,14.4,2025-02-23 09:40:03,1.53,12.24,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Marie,5,9.0,2025-02-23 09:40:03,1.53,7.65,0.85,2025-02-23 09:40:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Pierre,3,5.4,2025-02-23 09:40:03,1.53,4.59,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Sophie,10,18.0,2025-02-23 09:40:03,1.53,15.3,0.85,2025-02-23 09:40:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Luc,10,18.0,2025-02-23 09:40:03,1.53,15.3,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Jean,8,8.0,2025-02-23 09:40:03,0.85,6.8,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Marie,3,3.0,2025-02-23 09:40:03,0.85,2.55,0.85,2025-02-23 09:40:07
+France,EUR,Paris,SuperMart France,Pain,1.0,Pierre,5,5.0,2025-02-23 09:40:03,0.85,4.25,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Sophie,10,10.0,2025-02-23 09:40:03,0.85,8.5,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Luc,7,7.0,2025-02-23 09:40:03,0.85,5.95,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Jean,9,19.8,2025-02-23 09:40:03,1.87,16.83,0.85,2025-02-23 09:40:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Marie,1,2.2,2025-02-23 09:40:03,1.87,1.87,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Pierre,1,2.2,2025-02-23 09:40:03,1.87,1.87,0.85,2025-02-23 09:40:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Sophie,3,6.6000000000000005,2025-02-23 09:40:03,1.87,5.61,0.85,2025-02-23 09:40:07
+France,EUR,Lyon,QuickShop France,Œufs,2.2,Luc,6,13.2,2025-02-23 09:40:03,1.87,11.22,0.85,2025-02-23 09:40:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Alice,5,9.0,2025-02-23 09:45:03,1.42,7.11,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Bob,10,18.0,2025-02-23 09:45:03,1.42,14.22,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Charlie,9,16.2,2025-02-23 09:45:03,1.42,12.8,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,David,6,10.8,2025-02-23 09:45:03,1.42,8.53,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,Eve,3,5.4,2025-02-23 09:45:03,1.42,4.27,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Alice,3,2.85,2025-02-23 09:45:03,0.75,2.25,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Bob,1,0.95,2025-02-23 09:45:03,0.75,0.75,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Bananes,0.95,Charlie,1,0.95,2025-02-23 09:45:03,0.75,0.75,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,David,5,4.75,2025-02-23 09:45:03,0.75,3.75,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Eve,2,1.9,2025-02-23 09:45:03,0.75,1.5,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Alice,5,12.0,2025-02-23 09:45:03,1.9,9.48,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Bob,7,16.8,2025-02-23 09:45:03,1.9,13.27,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Charlie,1,2.4,2025-02-23 09:45:03,1.9,1.9,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,David,7,16.8,2025-02-23 09:45:03,1.9,13.27,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Eve,4,9.6,2025-02-23 09:45:03,1.9,7.58,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Alice,5,7.25,2025-02-23 09:45:03,1.15,5.73,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Bob,2,2.9,2025-02-23 09:45:03,1.15,2.29,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Charlie,9,13.05,2025-02-23 09:45:03,1.15,10.31,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,David,8,11.6,2025-02-23 09:45:03,1.15,9.16,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,Eve,2,2.9,2025-02-23 09:45:03,1.15,2.29,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Alice,6,18.0,2025-02-23 09:45:03,2.37,14.22,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Bob,1,3.0,2025-02-23 09:45:03,2.37,2.37,0.79,2025-02-23 09:45:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Charlie,2,6.0,2025-02-23 09:45:03,2.37,4.74,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,David,2,6.0,2025-02-23 09:45:03,2.37,4.74,0.79,2025-02-23 09:45:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Eve,9,27.0,2025-02-23 09:45:03,2.37,21.33,0.79,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Jean,10,13.0,2025-02-23 09:45:03,1.1,11.05,0.85,2025-02-23 09:45:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Marie,8,10.4,2025-02-23 09:45:03,1.1,8.84,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,QuickShop France,Pommes,1.3,Pierre,9,11.7,2025-02-23 09:45:03,1.1,9.95,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Sophie,1,1.3,2025-02-23 09:45:03,1.1,1.1,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,10,13.0,2025-02-23 09:45:03,1.1,11.05,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Jean,2,1.4,2025-02-23 09:45:03,0.59,1.19,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Marie,2,1.4,2025-02-23 09:45:03,0.59,1.19,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,8,5.6,2025-02-23 09:45:03,0.59,4.76,0.85,2025-02-23 09:45:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Sophie,7,4.9,2025-02-23 09:45:03,0.59,4.16,0.85,2025-02-23 09:45:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Luc,10,7.0,2025-02-23 09:45:03,0.59,5.95,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Jean,8,14.4,2025-02-23 09:45:03,1.53,12.24,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Lait,1.8,Marie,1,1.8,2025-02-23 09:45:03,1.53,1.53,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Pierre,3,5.4,2025-02-23 09:45:03,1.53,4.59,0.85,2025-02-23 09:45:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Sophie,1,1.8,2025-02-23 09:45:03,1.53,1.53,0.85,2025-02-23 09:45:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Luc,3,5.4,2025-02-23 09:45:03,1.53,4.59,0.85,2025-02-23 09:45:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Jean,3,3.0,2025-02-23 09:45:03,0.85,2.55,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Marie,10,10.0,2025-02-23 09:45:03,0.85,8.5,0.85,2025-02-23 09:45:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Pierre,10,10.0,2025-02-23 09:45:03,0.85,8.5,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,10,10.0,2025-02-23 09:45:03,0.85,8.5,0.85,2025-02-23 09:45:07
+France,EUR,Paris,SuperMart France,Pain,1.0,Luc,4,4.0,2025-02-23 09:45:03,0.85,3.4,0.85,2025-02-23 09:45:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Jean,10,22.0,2025-02-23 09:45:03,1.87,18.7,0.85,2025-02-23 09:45:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Marie,5,11.0,2025-02-23 09:45:03,1.87,9.35,0.85,2025-02-23 09:45:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Pierre,3,6.6000000000000005,2025-02-23 09:45:03,1.87,5.61,0.85,2025-02-23 09:45:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Sophie,9,19.8,2025-02-23 09:45:03,1.87,16.83,0.85,2025-02-23 09:45:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Luc,8,17.6,2025-02-23 09:45:03,1.87,14.96,0.85,2025-02-23 09:45:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Alice,2,3.6,2025-02-23 09:50:03,1.42,2.84,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Bob,1,1.8,2025-02-23 09:50:03,1.42,1.42,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Charlie,6,10.8,2025-02-23 09:50:03,1.42,8.53,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,David,4,7.2,2025-02-23 09:50:03,1.42,5.69,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Eve,10,18.0,2025-02-23 09:50:03,1.42,14.22,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Alice,7,6.65,2025-02-23 09:50:03,0.75,5.25,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Bob,4,3.8,2025-02-23 09:50:03,0.75,3.0,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,QuickShop USA,Bananes,0.95,Charlie,4,3.8,2025-02-23 09:50:03,0.75,3.0,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,David,9,8.549999999999999,2025-02-23 09:50:03,0.75,6.75,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Eve,9,8.549999999999999,2025-02-23 09:50:03,0.75,6.75,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Alice,1,2.4,2025-02-23 09:50:03,1.9,1.9,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,QuickShop USA,Lait,2.4,Bob,6,14.4,2025-02-23 09:50:03,1.9,11.38,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Charlie,7,16.8,2025-02-23 09:50:03,1.9,13.27,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,David,8,19.2,2025-02-23 09:50:03,1.9,15.17,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Eve,7,16.8,2025-02-23 09:50:03,1.9,13.27,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Alice,8,11.6,2025-02-23 09:50:03,1.15,9.16,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,SuperMart USA,Pain,1.45,Bob,8,11.6,2025-02-23 09:50:03,1.15,9.16,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Charlie,4,5.8,2025-02-23 09:50:03,1.15,4.58,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,David,2,2.9,2025-02-23 09:50:03,1.15,2.29,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Eve,8,11.6,2025-02-23 09:50:03,1.15,9.16,0.79,2025-02-23 09:50:06
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Alice,9,27.0,2025-02-23 09:50:03,2.37,21.33,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,Bob,6,18.0,2025-02-23 09:50:03,2.37,14.22,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Charlie,7,21.0,2025-02-23 09:50:03,2.37,16.59,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,7,21.0,2025-02-23 09:50:03,2.37,16.59,0.79,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,QuickShop USA,Œufs,3.0,Eve,7,21.0,2025-02-23 09:50:03,2.37,16.59,0.79,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,5,6.5,2025-02-23 09:50:03,1.1,5.52,0.85,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Pommes,1.3,Marie,1,1.3,2025-02-23 09:50:03,1.1,1.1,0.85,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Pommes,1.3,Pierre,3,3.9,2025-02-23 09:50:03,1.1,3.32,0.85,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Pommes,1.3,Sophie,8,10.4,2025-02-23 09:50:03,1.1,8.84,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,1,1.3,2025-02-23 09:50:03,1.1,1.1,0.85,2025-02-23 09:50:06
+France,EUR,Paris,SuperMart France,Bananes,0.7,Jean,3,2.1,2025-02-23 09:50:03,0.59,1.78,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Marie,8,5.6,2025-02-23 09:50:03,0.59,4.76,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Pierre,2,1.4,2025-02-23 09:50:03,0.59,1.19,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,QuickShop France,Bananes,0.7,Sophie,3,2.1,2025-02-23 09:50:03,0.59,1.78,0.85,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Bananes,0.7,Luc,7,4.9,2025-02-23 09:50:03,0.59,4.16,0.85,2025-02-23 09:50:06
+France,EUR,Paris,SuperMart France,Lait,1.8,Jean,5,9.0,2025-02-23 09:50:03,1.53,7.65,0.85,2025-02-23 09:50:06
+France,EUR,Paris,SuperMart France,Lait,1.8,Marie,2,3.6,2025-02-23 09:50:03,1.53,3.06,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,SuperMart France,Lait,1.8,Pierre,7,12.6,2025-02-23 09:50:03,1.53,10.71,0.85,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Lait,1.8,Sophie,4,7.2,2025-02-23 09:50:03,1.53,6.12,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,10,18.0,2025-02-23 09:50:03,1.53,15.3,0.85,2025-02-23 09:50:06
+France,EUR,Paris,SuperMart France,Pain,1.0,Jean,6,6.0,2025-02-23 09:50:03,0.85,5.1,0.85,2025-02-23 09:50:06
+France,EUR,Paris,SuperMart France,Pain,1.0,Marie,3,3.0,2025-02-23 09:50:03,0.85,2.55,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,QuickShop France,Pain,1.0,Pierre,8,8.0,2025-02-23 09:50:03,0.85,6.8,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,4,4.0,2025-02-23 09:50:03,0.85,3.4,0.85,2025-02-23 09:50:06
+France,EUR,Paris,SuperMart France,Pain,1.0,Luc,1,1.0,2025-02-23 09:50:03,0.85,0.85,0.85,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Œufs,2.2,Jean,10,22.0,2025-02-23 09:50:03,1.87,18.7,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Marie,10,22.0,2025-02-23 09:50:03,1.87,18.7,0.85,2025-02-23 09:50:06
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Pierre,8,17.6,2025-02-23 09:50:03,1.87,14.96,0.85,2025-02-23 09:50:06
+France,EUR,Paris,QuickShop France,Œufs,2.2,Sophie,10,22.0,2025-02-23 09:50:03,1.87,18.7,0.85,2025-02-23 09:50:06
+France,EUR,Paris,SuperMart France,Œufs,2.2,Luc,1,2.2,2025-02-23 09:50:03,1.87,1.87,0.85,2025-02-23 09:50:06
+États-Unis,USD,Los Angeles,QuickShop USA,Pommes,1.8,Alice,6,10.8,2025-02-23 09:55:03,1.42,8.53,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Bob,1,1.8,2025-02-23 09:55:03,1.42,1.42,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Pommes,1.8,Charlie,1,1.8,2025-02-23 09:55:03,1.42,1.42,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,QuickShop USA,Pommes,1.8,David,7,12.6,2025-02-23 09:55:03,1.42,9.95,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pommes,1.8,Eve,3,5.4,2025-02-23 09:55:03,1.42,4.27,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Alice,5,4.75,2025-02-23 09:55:03,0.75,3.75,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Bob,6,5.699999999999999,2025-02-23 09:55:03,0.75,4.5,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,Charlie,4,3.8,2025-02-23 09:55:03,0.75,3.0,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Bananes,0.95,David,6,5.699999999999999,2025-02-23 09:55:03,0.75,4.5,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Bananes,0.95,Eve,1,0.95,2025-02-23 09:55:03,0.75,0.75,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,QuickShop USA,Lait,2.4,Alice,8,19.2,2025-02-23 09:55:03,1.9,15.17,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,Bob,1,2.4,2025-02-23 09:55:03,1.9,1.9,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Charlie,6,14.399999999999999,2025-02-23 09:55:03,1.9,11.38,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Lait,2.4,David,7,16.8,2025-02-23 09:55:03,1.9,13.27,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Lait,2.4,Eve,6,14.399999999999999,2025-02-23 09:55:03,1.9,11.38,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Alice,2,2.9,2025-02-23 09:55:03,1.15,2.29,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,QuickShop USA,Pain,1.45,Bob,4,5.8,2025-02-23 09:55:03,1.15,4.58,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Charlie,5,7.25,2025-02-23 09:55:03,1.15,5.73,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,QuickShop USA,Pain,1.45,David,2,2.9,2025-02-23 09:55:03,1.15,2.29,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Pain,1.45,Eve,7,10.15,2025-02-23 09:55:03,1.15,8.02,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Alice,2,6.0,2025-02-23 09:55:03,2.37,4.74,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,QuickShop USA,Œufs,3.0,Bob,6,18.0,2025-02-23 09:55:03,2.37,14.22,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Charlie,8,24.0,2025-02-23 09:55:03,2.37,18.96,0.79,2025-02-23 09:55:07
+États-Unis,USD,Los Angeles,SuperMart USA,Œufs,3.0,David,5,15.0,2025-02-23 09:55:03,2.37,11.85,0.79,2025-02-23 09:55:07
+États-Unis,USD,New York,SuperMart USA,Œufs,3.0,Eve,5,15.0,2025-02-23 09:55:03,2.37,11.85,0.79,2025-02-23 09:55:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Jean,6,7.800000000000001,2025-02-23 09:55:03,1.1,6.63,0.85,2025-02-23 09:55:07
+France,EUR,Paris,SuperMart France,Pommes,1.3,Marie,8,10.4,2025-02-23 09:55:03,1.1,8.84,0.85,2025-02-23 09:55:07
+France,EUR,Paris,QuickShop France,Pommes,1.3,Pierre,6,7.800000000000001,2025-02-23 09:55:03,1.1,6.63,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Sophie,10,13.0,2025-02-23 09:55:03,1.1,11.05,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Pommes,1.3,Luc,9,11.700000000000001,2025-02-23 09:55:03,1.1,9.95,0.85,2025-02-23 09:55:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Jean,10,7.0,2025-02-23 09:55:03,0.59,5.95,0.85,2025-02-23 09:55:07
+France,EUR,Paris,QuickShop France,Bananes,0.7,Marie,10,7.0,2025-02-23 09:55:03,0.59,5.95,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Bananes,0.7,Pierre,3,2.0999999999999996,2025-02-23 09:55:03,0.59,1.78,0.85,2025-02-23 09:55:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Sophie,6,4.199999999999999,2025-02-23 09:55:03,0.59,3.57,0.85,2025-02-23 09:55:07
+France,EUR,Paris,SuperMart France,Bananes,0.7,Luc,2,1.4,2025-02-23 09:55:03,0.59,1.19,0.85,2025-02-23 09:55:07
+France,EUR,Paris,QuickShop France,Lait,1.8,Jean,6,10.8,2025-02-23 09:55:03,1.53,9.18,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Marie,2,3.6,2025-02-23 09:55:03,1.53,3.06,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Pierre,10,18.0,2025-02-23 09:55:03,1.53,15.3,0.85,2025-02-23 09:55:07
+France,EUR,Paris,SuperMart France,Lait,1.8,Sophie,3,5.4,2025-02-23 09:55:03,1.53,4.59,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,QuickShop France,Lait,1.8,Luc,1,1.8,2025-02-23 09:55:03,1.53,1.53,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Jean,2,2.0,2025-02-23 09:55:03,0.85,1.7,0.85,2025-02-23 09:55:07
+France,EUR,Paris,QuickShop France,Pain,1.0,Marie,9,9.0,2025-02-23 09:55:03,0.85,7.65,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Pierre,2,2.0,2025-02-23 09:55:03,0.85,1.7,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Pain,1.0,Sophie,3,3.0,2025-02-23 09:55:03,0.85,2.55,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,QuickShop France,Pain,1.0,Luc,7,7.0,2025-02-23 09:55:03,0.85,5.95,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Jean,3,6.6000000000000005,2025-02-23 09:55:03,1.87,5.61,0.85,2025-02-23 09:55:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Marie,2,4.4,2025-02-23 09:55:03,1.87,3.74,0.85,2025-02-23 09:55:07
+France,EUR,Paris,QuickShop France,Œufs,2.2,Pierre,6,13.200000000000001,2025-02-23 09:55:03,1.87,11.22,0.85,2025-02-23 09:55:07
+France,EUR,Lyon,SuperMart France,Œufs,2.2,Sophie,6,13.200000000000001,2025-02-23 09:55:03,1.87,11.22,0.85,2025-02-23 09:55:07
+France,EUR,Paris,SuperMart France,Œufs,2.2,Luc,9,19.8,2025-02-23 09:55:03,1.87,16.83,0.85,2025-02-23 09:55:07

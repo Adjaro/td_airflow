@@ -1,0 +1,6 @@
+
+        Rapport des ventes :
+        -------------------
+        - Meilleur vendeur : Alice (Chiffre d'affaires : 1068.00 €)
+        - Produit le plus vendu : Bananes (Quantité vendue : 1203.0)
+        
